@@ -86,7 +86,7 @@ int main(){
 
 
     nQueen(board);
-    cout<<"There Exists "<<countSol<<" solutions for "<<n<<"- Queens Problem";
+    cout<<"\n\nThere Exists "<<countSol<<" solutions for "<<n<<"-Queens Problem";
 
     
     return 0;
